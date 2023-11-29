@@ -1,2 +1,11 @@
-# app-dev
-My first repository
+# Money Heist 
+**ONE PIECE**
+*MARVELS*
+> DR. STRANGE
+1. Money Heist
+2. ONE PIECE
+3. DR. STRANGE
+- Money Heist
+- ONE PIECE
+- DR. STRANGE
+`3 IDIOTS`
